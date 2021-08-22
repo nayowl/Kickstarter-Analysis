@@ -11,9 +11,11 @@ Summary of the analysis:
 
 
 **Subcategory Outcomes Chart**
+
 <img width="241" alt="Subcategory_Outcomes_Chart" src="https://user-images.githubusercontent.com/88597187/130339255-55613702-3170-4bb4-acb6-4a8a1b92695a.png">
 
 
 **Launch Date Outcomes Chart**
+
 <img width="249" alt="Launch_Date_Outcomes_Chart" src="https://user-images.githubusercontent.com/88597187/130339184-13af1700-e193-40c9-9602-b7f2f3ef4ca7.png">
 
