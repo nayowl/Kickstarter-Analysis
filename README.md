@@ -9,7 +9,8 @@
 ## 2 Analysis And Challenges
 
 ### 2.1 Analysis of Outcomes Based on Launch Date
-<img src="http://some_place.com/image.png" />
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88597187/131266945-9b5ac56f-815a-4a72-947e-89d1eaf691a7.png)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88597187/131266885-7d276e40-4677-48a4-9afc-cec9080df837.png"/>
