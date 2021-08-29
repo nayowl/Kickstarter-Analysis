@@ -12,6 +12,10 @@
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88597187/131266945-9b5ac56f-815a-4a72-947e-89d1eaf691a7.png)
 
+<p align="center">
+<sub>Figure 1 Theater Outcomes based on Launch Date </sub>
+</p>
+
 
 ### 2.2 Analysis of Outcomes Based on Goals
 
