@@ -22,6 +22,16 @@
 ![Outcomes_vs_Goal](https://user-images.githubusercontent.com/88597187/131266961-032d26ee-3519-4225-80c9-3288b67edb16.png)
 
 
+<p align="center">
+<sub>Figure 2 Theater Play Outcomes based on Goal </sub>
+</p>
+
+
+
+<p align="center">
+<sub>Table 1 Theater Play Outcomes based on Goal </sub>
+</p>
+
 |Goal|Number Successful|Number Failed|Number Canceled|Total Projects|Percentage Successful|Percentage Failed|Percentage Canceled|
 |---|---|---|---|---|---|---|---|
 |Less Than 1000|141|45|0|186|75.80645161|24.19354839|0|
@@ -51,6 +61,13 @@
 ### 3.4 Other Possible tables and/or Graphs
 
 ![NumberOfOutcomes_vs_Goal](https://user-images.githubusercontent.com/88597187/131266969-d7e65659-1a8f-4fa8-9e34-0ff22a923840.png)
+
+
+<p align="center">
+<sub>Figure 3 Number of Outcomes based on Goal  </sub>
+</p>
+
+
 
 
 
