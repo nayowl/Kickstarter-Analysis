@@ -1,19 +1,31 @@
 # An Analysis of Kickstarter Campaigns
 
-## Overview of Project
+## 1 Overview of Project
 
-This project examined kickstarter campaigns trends in 15 countries(AT,AU,CH,DE,DK,ES,FR,GB,IE,IT,LU,MX,NL,NO) from 2009 to 2017 for theater category.
+### 1.1 Background
 
-### Purpose
-The purpose of the project is to provide useful information by extracting and finding pattern of the data using charts. The information can be used for the new kickstarter fundraiser in theater industry to decide the timing and goal for their campaign. 
+### 1.2 Purpose
 
-## Analysis and Challenges
+## 2 Analysis And Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### 2.1 Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+<p align="center">
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88597187/131266885-7d276e40-4677-48a4-9afc-cec9080df837.png)
+</p>
 
-### Challenges and Difficulties Encountered
+### 2.2 Analysis of Outcomes Based on Goals
 
-## Results
+### 2.3 Challenges and Difficulties Encountered
+
+## 3 Results
+
+### 3.1 Theater Outcomes by Launch Date Result
+
+### 3.2 Outcomes based on Goals Result
+
+### 3.3 Limitations of dataset
+
+### 3.4 Other Possible tables and/or Graphs
+
 
