@@ -69,6 +69,7 @@ The failed graph is the opposite of the success graph due to the absence of canc
 ### 2.3 Challenges and Difficulties Encountered
 
 The challenge encountered in analyzing the data is converting the data in some of the dataset. The date for instance, is a “unix timestamps” data type which is required to be converted to “date” data type for a better reading.
+
 Possibilities of misinterpreting the data when reading the figure also poses a difficulty. In figure 2 for instance, the data shows us the percentage of campaign outcomes compared to goal amount. If Louise is not comparing the success percentage with the number of the projects presented, she may interpret that there is a high chance of success by pledging 35,000 to 44,999 goal amounts, while the high success percentage was due to the small number of projects.
 
 
@@ -92,12 +93,15 @@ Figure 2 (Outcomes based on Goals) indicates that the highest percentage of succ
 
 The dataset is based on Kickstarter campaigns trends in 15 countries (AT, AU, CH, DE, DK, ES, FR, GB, IE, IT, LU, MX, NL, NO) from 2009 to 2017. For further analysis to help Louise with the fundraising, we may add:
 - New Kickstarter Campaign Data
+
 The current dataset only contains the data from 2009 to 2017. If Louise intends to launch her campaign in 2021 or 2022, she will require additional data which span from 2017 to 2021 for the purpose of analyzing the newest trend. 
 
 - Demographic
+
 To encourage the backer to fund the campaign, demographic information could be included to the dataset which can be utilized to accurately devise the marketing strategy based on their preference. 
 
 - Reward
+
 Another factor that could attract the backers to fund the campaign is the desirable rewards offered by the campaign. Adding reward information in the dataset will allow an analysis for the impact of certain types of rewards that leads to a project success. Additionally, reward tier data could be analyzed to further determine the effective rewarding strategy. 
 
 
@@ -105,12 +109,15 @@ Another factor that could attract the backers to fund the campaign is the desira
 
 The following feature can be added to expand the analysis from this dataset:
 - Country only graph
+
 Figure 1 and Figure 2 gathers data from all countries in the world. By presenting the chart which specifically shows the data of the country where Louise's theater performance will take place, she will have a better understanding of the trend based in that specific country. Furthermore, she can compare it with all country data whether the trend is the same or different.
 
 - Descriptive Statistics
+
 Including the descriptive statistic to show average, median, standard deviation and quartile could help Louise to decide the amount of goal and compare it to the pledged amount. The box and whisker can be added to know if there is an outlier in the data and further analyze the data. 
 
 - Clustered Column Chart 
+
 Clustered column charts in addition to Table 1 will help to visualize the number of of successful, canceled , failed  and total projects compared with the goal amount.
 
 
